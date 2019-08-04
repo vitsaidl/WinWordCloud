@@ -5,5 +5,5 @@ Program vytváří wordcloudy (obrázky tvořené na základě určitého textu,
 ![Priklad_veverka](examples/squirrel.png)
 
 # Historie
-21. 7. 2018 První verze
-4. 8. 2019  Začištění kódu, přidání testů, ošetření problému s kódováním textových souborů, wordcloudy s maskou mohou mít nyní obrysy
+21.7.2018 První verze
+4.8.2019  Začištění kódu, přidání testů, ošetření problému s kódováním textových souborů, wordcloudy s maskou mohou mít nyní obrysy
