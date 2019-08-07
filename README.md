@@ -4,6 +4,14 @@ Program vytváří wordcloudy (obrázky tvořené na základě určitého textu,
 
 ![Priklad_veverka](examples/squirrel.png)
 
+# Technické detaily
+Použitá verze Pythonu: 3.7.3  
+Verze externích knihoven:  
+> matplotlib 3.0.3  
+> numpy 1.16.2  
+> pillow 5.4.1  
+> wordcloud 1.5.0  
+
 # Historie
 21.7.2018 První verze  
 4.8.2019  Začištění kódu, přidání testů, ošetření problému s kódováním textových souborů, wordcloudy s maskou mohou mít nyní obrysy

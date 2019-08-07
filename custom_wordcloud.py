@@ -13,7 +13,6 @@ from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import numpy as np
 from PIL import Image
-
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 class JmenoSouboruNeuvedeno(Exception):
